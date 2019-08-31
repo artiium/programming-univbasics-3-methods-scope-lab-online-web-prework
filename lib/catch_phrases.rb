@@ -14,6 +14,9 @@ def link
   puts first_pharse
 end
 
-def any_phrase
+def any_phrase(phrase)
+  puts "Im on fire, then #{phrase}."
+end
+any_phrase("Do A Barrel Roll!")
   
   
