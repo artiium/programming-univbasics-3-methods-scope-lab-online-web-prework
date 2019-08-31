@@ -13,3 +13,7 @@ def link
   first_pharse = "It's Dangerous To Go Alone! Take This."
   puts first_pharse
 end
+
+def any_phrase
+  
+  
