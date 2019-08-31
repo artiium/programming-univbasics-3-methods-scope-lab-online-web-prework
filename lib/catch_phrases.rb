@@ -10,4 +10,6 @@ def toadstool
 end
 
 def link 
-  first_pharse = ""
+  first_pharse = "It's Dangerous To Go Alone! Take This."
+  puts first_pharse
+end
